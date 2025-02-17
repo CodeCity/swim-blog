@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to/how-to-judging-breaststroke-in-competitive-swimming/","created":"2025-02-16T10:15:08.360-05:00","updated":"2025-02-16T16:57:47.729-05:00"}
+{"dg-publish":true,"permalink":"/how-to/how-to-judging-breaststroke-in-competitive-swimming/","created":"2025-02-16T10:15:08.360-05:00","updated":"2025-02-16T17:00:16.756-05:00"}
 ---
 
 
@@ -14,7 +14,7 @@ Join us as we explore the crucial roles of the Inspector of Turns and the Judge 
 
 So, let's dive into the details and equip ourselves with the tools to judge breaststroke effectively!
 
-![pexels-sergio-benavides-16516756.jpg](/img/user/assets/pexels-sergio-benavides-16516756.jpg)<style text-align:center>*Attribution: Sergio Benevides*</style>
+![pexels-sergio-benavides-16516756.jpg](/img/user/assets/pexels-sergio-benavides-16516756.jpg)<style text-align:center><cite>*Attribution: Sergio Benevides*</cite></style>
 
 
 ## Understanding the Role of Stroke and Turn Judges
