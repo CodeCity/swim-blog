@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to/how-to-judging-breaststroke-in-competitive-swimming/","created":"2025-02-16T10:15:08.360-05:00","updated":"2025-02-16T17:00:16.756-05:00"}
+{"dg-publish":true,"permalink":"/how-to/how-to-judging-breaststroke-in-competitive-swimming/","title":"\"How To: Judging Breaststroke in Competitive Swimming\"","created":"2025-02-16T10:15:08.360-05:00","updated":"2025-02-18T17:38:19.059-05:00"}
 ---
 
 
