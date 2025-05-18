@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/swim-dad-thoughts/a-parent-of-a-competitive-swimmer-needs-to-get-in-the-pool/","title":"\"If Your Child Is A Competitive Swimmer, Get In The Pool\"","created":"2025-02-16T08:52:13.182-05:00","updated":"2025-02-18T17:39:04.151-05:00"}
+{"dg-publish":true,"permalink":"/swim-dad-thoughts/a-parent-of-a-competitive-swimmer-needs-to-get-in-the-pool/","title":"\"If Your Child Is A Competitive Swimmer, Get In The Pool\"","created":"2025-05-07T14:05:39.471-04:00","updated":"2025-05-18T10:52:09.557-04:00"}
 ---
 
 
